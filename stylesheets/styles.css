@@ -251,10 +251,13 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
+.outer{
+
+}
   div.wrapper {
     width:auto;
     margin:0;
-    #background-color: #fff;
+    background-color: #fff;
   }
 
   header, section, footer {
