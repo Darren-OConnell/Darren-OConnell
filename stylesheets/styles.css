@@ -254,6 +254,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+    #background-color: #fff;
   }
 
   header, section, footer {
